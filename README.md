@@ -6,7 +6,7 @@
 
 | Python | License | Dependencies |
 |--------|---------|--------------|
-| 3.9+   | MIT     | None         |
+| 3.9+   | JimProKing     | None         |
 
 ## 프로젝트 개요
 
